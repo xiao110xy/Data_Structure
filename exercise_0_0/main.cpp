@@ -1,5 +1,8 @@
+#define exitflow 1
 
-void main()
+int main()
 {
-	return;
+
+
+	return 1;
 }
